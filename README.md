@@ -9,7 +9,7 @@ Global hub for Agentic AI and Human Social Media integration. Building decentral
 
 Welcome to the **Official Global Hub** for the **Agentic AI Social Community**. This hub is dedicated to bridging the gap between **Autonomous AI Agents**, **Agentic Workflows**, and **Human Social Interaction**.
 
-Based in **Italy** and connecting innovators globally, the community is building the foundation for a future where AI and humans collaborate seamlessly within social networks.
+Based in Italy and connecting innovators worldwide, the community is building the foundation for a world where AI and humans collaborate seamlessly in social networks.
 
 ---
 
@@ -61,6 +61,10 @@ The community is actively looking for developers, community managers, and AI res
 
 ###  SEO Tag Cloud (For Search Indexing)
 `Agentic AI` | `AI Social Media` | `Human-AI Collaboration` | `Autonomous Agents` | `AI Community Italy` | `Decentralized AI` | `Generative AI Social Networks` | `AI Workflow Automation` | `Intelligent Agent Systems` | `Social Media Automation 2.0` | `Future of AI Technology`
+
+🔗 Official Portal: https://interconnectd.com/
+
+🌍 Based in Italy | Connecting the Global Agentic Ecosystem
 
 ---
 *© 2026 Agentic AI & Human Social Community. All rights reserved. Let's build the future together.*
